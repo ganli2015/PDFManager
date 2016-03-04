@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Books>
+  <Directory Value="..\" />
+  <Book Name="[Andrei_Alexandrescu]_Modern_C++_design_generic_p(BookZZ.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Andrei_Alexandrescu]_Modern_C++_design_generic_p(BookZZ.org).pdf" />
+  <Book Name="[Byoung_K._Choi,__Robert_B._Jerard__(auth.)]_Sculp(BookZZ.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Byoung_K._Choi,__Robert_B._Jerard__(auth.)]_Sculp(BookZZ.org).pdf" />
+  <Book Name="[Charles_Petzold]_Programming_Windows®,_Fifth_Edi(BookFi.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Charles_Petzold]_Programming_Windows®,_Fifth_Edi(BookFi.org).pdf" />
+  <Book Name="[Christopher_M._Bishop]_Pattern_Recognition_and_Ma(BookFi.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Christopher_M._Bishop]_Pattern_Recognition_and_Ma(BookFi.org).pdf" />
+  <Book Name="[Douglas_Hofstadter]_Fluid_Concepts_and_Creative_A(BookZZ.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Douglas_Hofstadter]_Fluid_Concepts_and_Creative_A(BookZZ.org).pdf" />
+  <Book Name="[Douglas_Hofstadter]_Metamagical_Themas_Questing_(BookZZ.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Douglas_Hofstadter]_Metamagical_Themas_Questing_(BookZZ.org).pdf" />
+  <Book Name="[Eric_Kandel,_James_Schwartz,_Thomas_Jessell]_Prin(BookFi.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Eric_Kandel,_James_Schwartz,_Thomas_Jessell]_Prin(BookFi.org).pdf" />
+  <Book Name="[Ivan_Bratko]_PROLOG_Programming_for_Artificial_In(BookFi.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Ivan_Bratko]_PROLOG_Programming_for_Artificial_In(BookFi.org).pdf" />
+  <Book Name="[Matthew_MacDonald]_Pro_WPF_in_C_2010_Windows_Pr(BookZZ.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Matthew_MacDonald]_Pro_WPF_in_C_2010_Windows_Pr(BookZZ.org).pdf" />
+  <Book Name="[Michael_Dawson]_Beginning_C++_Through_Game_Progra(BookFi.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Michael_Dawson]_Beginning_C++_Through_Game_Progra(BookFi.org).pdf" />
+  <Book Name="[Milton_Abramowitz,_Irene_A._Stegun]_Handbook_of_M(BookFi.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Milton_Abramowitz,_Irene_A._Stegun]_Handbook_of_M(BookFi.org).pdf" />
+  <Book Name="[Paul_Wellin]_Programming_with_Mathematica®_An_I(BookZZ.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Paul_Wellin]_Programming_with_Mathematica®_An_I(BookZZ.org).pdf" />
+  <Book Name="[Philippe_Di_Francesco,__Pierre_Mathieu,__David_S-BookZZ.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Philippe_Di_Francesco,__Pierre_Mathieu,__David_S-BookZZ.org).pdf" />
+  <Book Name="[Robert_Sedgewick,_Kevin_Wayne]_Algorithms_(4th_Ed(BookFi.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Robert_Sedgewick,_Kevin_Wayne]_Algorithms_(4th_Ed(BookFi.org).pdf" />
+  <Book Name="[Sara_Ford]_Microsoft_Visual_Studio_Tips(BookZZ.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Sara_Ford]_Microsoft_Visual_Studio_Tips(BookZZ.org).pdf" />
+  <Book Name="[Scott_Cameron]_Microsoft_SQL_Server_2008_Analysis(BookZZ.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Scott_Cameron]_Microsoft_SQL_Server_2008_Analysis(BookZZ.org).pdf" />
+  <Book Name="[Stephen_Wolfram]_A_New_Kind_of_Science(BookZZ.org)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Stephen_Wolfram]_A_New_Kind_of_Science(BookZZ.org).pdf" />
+  <Book Name="[Visual.C#2010从入门到精通].[Microsoft.Visual.C#.2010.Step.by.Step].(John.Sharp).文字版" Path="C:\Users\dell\我的坚果云\Dropbox\书\[Visual.C#2010从入门到精通].[Microsoft.Visual.C#.2010.Step.by.Step].(John.Sharp).文字版.pdf" />
+  <Book Name="[悲剧的诞生-尼采美学文选].(德).尼采.清晰扫描版" Path="C:\Users\dell\我的坚果云\Dropbox\书\[悲剧的诞生-尼采美学文选].(德).尼采.清晰扫描版.pdf" />
+  <Book Name="[俾斯麦.凡人与政治家].（英）泰勒着.中国法制出版社.扫描版" Path="C:\Users\dell\我的坚果云\Dropbox\书\[俾斯麦.凡人与政治家].（英）泰勒着.中国法制出版社.扫描版.pdf" />
+  <Book Name="[精通.NET互操作：P／Invoke、C..Interop和COM.Interop].黄际洲等.扫描版(ED2000.COM)" Path="C:\Users\dell\我的坚果云\Dropbox\书\[精通.NET互操作：P／Invoke、C..Interop和COM.Interop].黄际洲等.扫描版(ED2000.COM).pdf" />
+  <Book Name="[全美经典学习指导系列] C++编程习题与解答" Path="C:\Users\dell\我的坚果云\Dropbox\书\[全美经典学习指导系列] C++编程习题与解答.pdf" />
+  <Book Name="[全唐诗之李白诗集].李白.文字版" Path="C:\Users\dell\我的坚果云\Dropbox\书\[全唐诗之李白诗集].李白.文字版.pdf" />
+  <Book Name="[神经科学.探索脑]." Path="C:\Users\dell\我的坚果云\Dropbox\书\[神经科学.探索脑]..pdf" />
+  <Book Name="《从一到无穷大：科学中的事实与臆测》" Path="C:\Users\dell\我的坚果云\Dropbox\书\《从一到无穷大：科学中的事实与臆测》.pdf" />
+  <Book Name="《致D》哲人之爱" Path="C:\Users\dell\我的坚果云\Dropbox\书\《致D》哲人之爱.PDF" />
+  <Book Name="05. 细说宋朝" Path="C:\Users\dell\我的坚果云\Dropbox\书\05. 细说宋朝.pdf" />
+  <Book Name="15剑桥中华人民共和国史" Path="C:\Users\dell\我的坚果云\Dropbox\书\15剑桥中华人民共和国史.pdf" />
+  <Book Name="An Introduction to Programming with Mathematica" Path="C:\Users\dell\我的坚果云\Dropbox\书\An Introduction to Programming with Mathematica.pdf" />
+  <Book Name="bonep@18p2p_剑桥中华民国史1912-1949年（上卷）" Path="C:\Users\dell\我的坚果云\Dropbox\书\bonep@18p2p_剑桥中华民国史1912-1949年（上卷）.pdf" />
+  <Book Name="bonep@18p2p_剑桥中华民国史1912-1949年（下卷）" Path="C:\Users\dell\我的坚果云\Dropbox\书\bonep@18p2p_剑桥中华民国史1912-1949年（下卷）.pdf" />
+  <Book Name="bonep@18p2p_剑桥中华人民共和国史——革命的中国的兴起1949—1965" Path="C:\Users\dell\我的坚果云\Dropbox\书\bonep@18p2p_剑桥中华人民共和国史——革命的中国的兴起1949—1965.pdf" />
+  <Book Name="C  编程规范_101条规则、准则与最佳实践" Path="C:\Users\dell\我的坚果云\Dropbox\书\C  编程规范_101条规则、准则与最佳实践.pdf" />
+  <Book Name="c%23编程语言详解" Path="C:\Users\dell\我的坚果云\Dropbox\书\c%23编程语言详解.pdf" />
+  <Book Name="c++ strategies and tactics" Path="C:\Users\dell\我的坚果云\Dropbox\书\c++ strategies and tactics.pdf" />
+  <Book Name="C++ Templates中文版" Path="C:\Users\dell\我的坚果云\Dropbox\书\C++ Templates中文版.pdf" />
+  <Book Name="C++Primer4th第四版中文版" Path="C:\Users\dell\我的坚果云\Dropbox\书\C++Primer4th第四版中文版.pdf" />
+  <Book Name="C++标准程序库" Path="C:\Users\dell\我的坚果云\Dropbox\书\C++标准程序库.pdf" />
+  <Book Name="C++程序设计语言_特别版" Path="C:\Users\dell\我的坚果云\Dropbox\书\C++程序设计语言_特别版.pdf" />
+  <Book Name="C++设计新思维" Path="C:\Users\dell\我的坚果云\Dropbox\书\C++设计新思维.pdf" />
+  <Book Name="C++游戏编程" Path="C:\Users\dell\我的坚果云\Dropbox\书\C++游戏编程.pdf" />
+  <Book Name="c++语言基础教程(吕凤翥)2001" Path="C:\Users\dell\我的坚果云\Dropbox\书\c++语言基础教程(吕凤翥)2001.pdf" />
+  <Book Name="CATIA V5 R16 曲面造型及逆向设计" Path="C:\Users\dell\我的坚果云\Dropbox\书\CATIA V5 R16 曲面造型及逆向设计.pdf" />
+  <Book Name="CATIA三维模型入门与提高_盛选禹" Path="C:\Users\dell\我的坚果云\Dropbox\书\CATIA三维模型入门与提高_盛选禹.pdf" />
+  <Book Name="Effective C++ 3rd Edition 中文版" Path="C:\Users\dell\我的坚果云\Dropbox\书\Effective C++ 3rd Edition 中文版.pdf" />
+  <Book Name="Essential C++中文版" Path="C:\Users\dell\我的坚果云\Dropbox\书\Essential C++中文版.pdf" />
+  <Book Name="General Relativity and Gravitation A Centennial Perspective" Path="C:\Users\dell\我的坚果云\Dropbox\书\General Relativity and Gravitation A Centennial Perspective.pdf" />
+  <Book Name="Head.First.CSharp.2nd.2010" Path="C:\Users\dell\我的坚果云\Dropbox\书\Head.First.CSharp.2nd.2010.pdf" />
+  <Book Name="HEAD_FIRST设计模式（中文版）" Path="C:\Users\dell\我的坚果云\Dropbox\书\HEAD_FIRST设计模式（中文版）.pdf" />
+  <Book Name="i.am.a.strange.loop" Path="C:\Users\dell\我的坚果云\Dropbox\书\i.am.a.strange.loop.pdf" />
+  <Book Name="Java编程思想第四版完整中文高清版(免费)" Path="C:\Users\dell\我的坚果云\Dropbox\书\Java编程思想第四版完整中文高清版(免费).pdf" />
+  <Book Name="King Warrior Magician Lover" Path="C:\Users\dell\我的坚果云\Dropbox\书\King Warrior Magician Lover.pdf" />
+  <Book Name="Mathematica for theoretical physics vol.1" Path="C:\Users\dell\我的坚果云\Dropbox\书\Mathematica for theoretical physics vol.1.pdf" />
+  <Book Name="Mathematica for theoretical physics vol.2" Path="C:\Users\dell\我的坚果云\Dropbox\书\Mathematica for theoretical physics vol.2.pdf" />
+  <Book Name="Modern C++ Design中文版" Path="C:\Users\dell\我的坚果云\Dropbox\书\Modern C++ Design中文版.pdf" />
+  <Book Name="More+Effective+C++" Path="C:\Users\dell\我的坚果云\Dropbox\书\More+Effective+C++.pdf" />
+  <Book Name="Neural Network Design-Martin Hagan (2002)" Path="C:\Users\dell\我的坚果云\Dropbox\书\Neural Network Design-Martin Hagan (2002).pdf" />
+  <Book Name="OpenCascade入门教程" Path="C:\Users\dell\我的坚果云\Dropbox\书\OpenCascade入门教程.pdf" />
+  <Book Name="Quantum Computation and Quantum Information" Path="C:\Users\dell\我的坚果云\Dropbox\书\Quantum Computation and Quantum Information.pdf" />
+  <Book Name="Sakurai.JJ 现代量子力学 %28第二版修订%29 高等 量子力学" Path="C:\Users\dell\我的坚果云\Dropbox\书\Sakurai.JJ 现代量子力学 %28第二版修订%29 高等 量子力学.pdf" />
+  <Book Name="STL源码剖析_" Path="C:\Users\dell\我的坚果云\Dropbox\书\STL源码剖析_.pdf" />
+  <Book Name="The C++ Programming Language 3rd Edition" Path="C:\Users\dell\我的坚果云\Dropbox\书\The C++ Programming Language 3rd Edition.pdf" />
+  <Book Name="Thinking+in+C++" Path="C:\Users\dell\我的坚果云\Dropbox\书\Thinking+in+C++.pdf" />
+  <Book Name="Triple.Your.Reading.Speed,.Wade.E.Cutler,.3ed,.Macmillan,.1993" Path="C:\Users\dell\我的坚果云\Dropbox\书\Triple.Your.Reading.Speed,.Wade.E.Cutler,.3ed,.Macmillan,.1993.pdf" />
+  <Book Name="ug8.0数控编程超级教程——金牌讲解！" Path="C:\Users\dell\我的坚果云\Dropbox\书\ug8.0数控编程超级教程——金牌讲解！.pdf" />
+  <Book Name="Visual C++角色扮演游戏程序设计" Path="C:\Users\dell\我的坚果云\Dropbox\书\Visual C++角色扮演游戏程序设计.pdf" />
+  <Book Name="Visual C++游戏编程基础" Path="C:\Users\dell\我的坚果云\Dropbox\书\Visual C++游戏编程基础.pdf" />
+  <Book Name="Windows程序设计(王艳萍)" Path="C:\Users\dell\我的坚果云\Dropbox\书\Windows程序设计(王艳萍).pdf" />
+  <Book Name="Windows游戏编程大师技巧" Path="C:\Users\dell\我的坚果云\Dropbox\书\Windows游戏编程大师技巧.pdf" />
+  <Book Name="WINDOWS游戏编程大师技巧(第二版)" Path="C:\Users\dell\我的坚果云\Dropbox\书\WINDOWS游戏编程大师技巧(第二版).pdf" />
+  <Book Name="WPF编程宝典" Path="C:\Users\dell\我的坚果云\Dropbox\书\WPF编程宝典.pdf" />
+  <Book Name="Y的悲剧（排版）" Path="C:\Users\dell\我的坚果云\Dropbox\书\Y的悲剧（排版）.pdf" />
+  <Book Name="埃舍尔大师图典" Path="C:\Users\dell\我的坚果云\Dropbox\书\埃舍尔大师图典.pdf" />
+  <Book Name="柏拉图《会饮篇》" Path="C:\Users\dell\我的坚果云\Dropbox\书\柏拉图《会饮篇》.pdf" />
+  <Book Name="本草纲目" Path="C:\Users\dell\我的坚果云\Dropbox\书\本草纲目.pdf" />
+  <Book Name="编程之美" Path="C:\Users\dell\我的坚果云\Dropbox\书\编程之美.pdf" />
+  <Book Name="博弈论基础-吉本斯" Path="C:\Users\dell\我的坚果云\Dropbox\书\博弈论基础-吉本斯.pdf" />
+  <Book Name="策略思维" Path="C:\Users\dell\我的坚果云\Dropbox\书\策略思维.pdf" />
+  <Book Name="茶经" Path="C:\Users\dell\我的坚果云\Dropbox\书\茶经.pdf" />
+  <Book Name="道德经及翻译" Path="C:\Users\dell\我的坚果云\Dropbox\书\道德经及翻译.pdf" />
+  <Book Name="道教徒的诗人李白及其痛苦" Path="C:\Users\dell\我的坚果云\Dropbox\书\道教徒的诗人李白及其痛苦.pdf" />
+  <Book Name="高等量子力学_徐在新" Path="C:\Users\dell\我的坚果云\Dropbox\书\高等量子力学_徐在新.pdf" />
+  <Book Name="哥德尔，埃舍尔和巴赫——集异璧之大成" Path="C:\Users\dell\我的坚果云\Dropbox\书\哥德尔，埃舍尔和巴赫——集异璧之大成.pdf" />
+  <Book Name="古典作曲家排行榜" Path="C:\Users\dell\我的坚果云\Dropbox\书\古典作曲家排行榜.pdf" />
+  <Book Name="古文观止" Path="C:\Users\dell\我的坚果云\Dropbox\书\古文观止.pdf" />
+  <Book Name="合作的进化" Path="C:\Users\dell\我的坚果云\Dropbox\书\合作的进化.pdf" />
+  <Book Name="洪业：清朝开国史" Path="C:\Users\dell\我的坚果云\Dropbox\书\洪业：清朝开国史.pdf" />
+  <Book Name="黄仁宇《中国大历史》" Path="C:\Users\dell\我的坚果云\Dropbox\书\黄仁宇《中国大历史》.pdf" />
+  <Book Name="机器学习" Path="C:\Users\dell\我的坚果云\Dropbox\书\机器学习.pdf" />
+  <Book Name="计算机程序的构造和解释中文版" Path="C:\Users\dell\我的坚果云\Dropbox\书\计算机程序的构造和解释中文版.pdf" />
+  <Book Name="计算机网络-自顶向下方法(原书第4版)" Path="C:\Users\dell\我的坚果云\Dropbox\书\计算机网络-自顶向下方法(原书第4版).pdf" />
+  <Book Name="计算几何算法与应用(中文版)" Path="C:\Users\dell\我的坚果云\Dropbox\书\计算几何算法与应用(中文版).pdf" />
+  <Book Name="李白诗选" Path="C:\Users\dell\我的坚果云\Dropbox\书\李白诗选.pdf" />
+  <Book Name="理想国" Path="C:\Users\dell\我的坚果云\Dropbox\书\理想国.pdf" />
+  <Book Name="铃木小提琴教材" Path="C:\Users\dell\我的坚果云\Dropbox\书\铃木小提琴教材.pdf" />
+  <Book Name="魔鬼搭讪学" Path="C:\Users\dell\我的坚果云\Dropbox\书\魔鬼搭讪学.pdf" />
+  <Book Name="男人来自火星 女人来自金星2(恋爱篇)" Path="C:\Users\dell\我的坚果云\Dropbox\书\男人来自火星 女人来自金星2(恋爱篇).pdf" />
+  <Book Name="尼采-人性，太人性" Path="C:\Users\dell\我的坚果云\Dropbox\书\尼采-人性，太人性.pdf" />
+  <Book Name="鸟哥的Linux私房菜 基础学习篇(第三版)" Path="C:\Users\dell\我的坚果云\Dropbox\书\鸟哥的Linux私房菜 基础学习篇(第三版).pdf" />
+  <Book Name="钱能C++程序设计教程第二版" Path="C:\Users\dell\我的坚果云\Dropbox\书\钱能C++程序设计教程第二版.pdf" />
+  <Book Name="三国志" Path="C:\Users\dell\我的坚果云\Dropbox\书\三国志.pdf" />
+  <Book Name="山雨欲来：辛亥革命前的中国" Path="C:\Users\dell\我的坚果云\Dropbox\书\山雨欲来：辛亥革命前的中国.pdf" />
+  <Book Name="设计模式可复用面向对象软件设计基础" Path="C:\Users\dell\我的坚果云\Dropbox\书\设计模式可复用面向对象软件设计基础.pdf" />
+  <Book Name="社会心理学" Path="C:\Users\dell\我的坚果云\Dropbox\书\社会心理学.pdf" />
+  <Book Name="社会心理学·第8版 （美）戴维·G·迈尔斯着" Path="C:\Users\dell\我的坚果云\Dropbox\书\社会心理学·第8版 （美）戴维·G·迈尔斯着.pdf" />
+  <Book Name="深度探索C++对象模型" Path="C:\Users\dell\我的坚果云\Dropbox\书\深度探索C++对象模型.pdf" />
+  <Book Name="深入浅出WPF完整版" Path="C:\Users\dell\我的坚果云\Dropbox\书\深入浅出WPF完整版.pdf" />
+  <Book Name="神经科学：探索脑 最新第三版 精美 " Path="C:\Users\dell\我的坚果云\Dropbox\书\神经科学：探索脑 最新第三版 精美 .pdf" />
+  <Book Name="神经生物学——从神经元到脑" Path="C:\Users\dell\我的坚果云\Dropbox\书\神经生物学——从神经元到脑.pdf" />
+  <Book Name="史记" Path="C:\Users\dell\我的坚果云\Dropbox\书\史记.pdf" />
+  <Book Name="史记2" Path="C:\Users\dell\我的坚果云\Dropbox\书\史记2.pdf" />
+  <Book Name="数据结构算法与应用：C++语言描述" Path="C:\Users\dell\我的坚果云\Dropbox\书\数据结构算法与应用：C++语言描述.pdf" />
+  <Book Name="数据结构与算法分析 C%2B%2B语言描述" Path="C:\Users\dell\我的坚果云\Dropbox\书\数据结构与算法分析 C%2B%2B语言描述.pdf" />
+  <Book Name="数据结构与算法分析—C语言描述" Path="C:\Users\dell\我的坚果云\Dropbox\书\数据结构与算法分析—C语言描述.pdf" />
+  <Book Name="数控机床与编程" Path="C:\Users\dell\我的坚果云\Dropbox\书\数控机床与编程.pdf" />
+  <Book Name="数控加工工艺" Path="C:\Users\dell\我的坚果云\Dropbox\书\数控加工工艺.pdf" />
+  <Book Name="宋词鉴赏辞典" Path="C:\Users\dell\我的坚果云\Dropbox\书\宋词鉴赏辞典.pdf" />
+  <Book Name="宋词三百首" Path="C:\Users\dell\我的坚果云\Dropbox\书\宋词三百首.pdf" />
+  <Book Name="算法导论[第二版]" Path="C:\Users\dell\我的坚果云\Dropbox\书\算法导论[第二版].pdf" />
+  <Book Name="唐伯虎-落花诗集" Path="C:\Users\dell\我的坚果云\Dropbox\书\唐伯虎-落花诗集.pdf" />
+  <Book Name="唐德刚：新中国三十年" Path="C:\Users\dell\我的坚果云\Dropbox\书\唐德刚：新中国三十年.pdf" />
+  <Book Name="唐诗鉴赏辞典" Path="C:\Users\dell\我的坚果云\Dropbox\书\唐诗鉴赏辞典.pdf" />
+  <Book Name="唐诗三百首（清）蘅塘退士" Path="C:\Users\dell\我的坚果云\Dropbox\书\唐诗三百首（清）蘅塘退士.pdf" />
+  <Book Name="田英章硬笔行书现代汉语3500常用字字帖" Path="C:\Users\dell\我的坚果云\Dropbox\书\田英章硬笔行书现代汉语3500常用字字帖.pdf" />
+  <Book Name="听音乐：音乐欣赏教程(插图本)" Path="C:\Users\dell\我的坚果云\Dropbox\书\听音乐：音乐欣赏教程(插图本).pdf" />
+  <Book Name="通过游戏编程教新手学C++编程" Path="C:\Users\dell\我的坚果云\Dropbox\书\通过游戏编程教新手学C++编程.pdf" />
+  <Book Name="围城" Path="C:\Users\dell\我的坚果云\Dropbox\书\围城.pdf" />
+  <Book Name="西方心理咨询经典案例" Path="C:\Users\dell\我的坚果云\Dropbox\书\西方心理咨询经典案例.pdf" />
+  <Book Name="现代汉语自动分析--Visual C++实现" Path="C:\Users\dell\我的坚果云\Dropbox\书\现代汉语自动分析--Visual C++实现.pdf" />
+  <Book Name="献给虚无的供物" Path="C:\Users\dell\我的坚果云\Dropbox\书\献给虚无的供物.pdf" />
+  <Book Name="小提琴基本教程" Path="C:\Users\dell\我的坚果云\Dropbox\书\小提琴基本教程.pdf" />
+  <Book Name="心理学与生活" Path="C:\Users\dell\我的坚果云\Dropbox\书\心理学与生活.pdf" />
+  <Book Name="心智的构建 ——脑如何创造我们的精神世界" Path="C:\Users\dell\我的坚果云\Dropbox\书\心智的构建 ——脑如何创造我们的精神世界.pdf" />
+  <Book Name="新编初学小提琴100天" Path="C:\Users\dell\我的坚果云\Dropbox\书\新编初学小提琴100天.pdf" />
+  <Book Name="中国八大菜系菜谱大全超级完整版" Path="C:\Users\dell\我的坚果云\Dropbox\书\中国八大菜系菜谱大全超级完整版.pdf" />
+  <Book Name="中国八大菜系精选" Path="C:\Users\dell\我的坚果云\Dropbox\书\中国八大菜系精选.pdf" />
+  <Book Name="中国剑桥史隋唐篇" Path="C:\Users\dell\我的坚果云\Dropbox\书\中国剑桥史隋唐篇.pdf" />
+  <Book Name="中国酒类知识大全" Path="C:\Users\dell\我的坚果云\Dropbox\书\中国酒类知识大全.pdf" />
+  <Book Name="舟山方言研究" Path="C:\Users\dell\我的坚果云\Dropbox\书\舟山方言研究.pdf" />
+  <Directory Value="C:\Users\dell\我的坚果云\Dropbox\书" />
+  <Directory Value="D:\" />
+</Books>

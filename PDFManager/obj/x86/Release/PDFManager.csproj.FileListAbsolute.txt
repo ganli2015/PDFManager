@@ -1,0 +1,15 @@
+E:\PDFManager\PDFManager\bin\Release\PDFManager.exe
+E:\PDFManager\PDFManager\bin\Release\PDFManager.pdb
+E:\PDFManager\PDFManager\obj\x86\Release\ResolveAssemblyReference.cache
+E:\PDFManager\PDFManager\obj\x86\Release\AddLabel.baml
+E:\PDFManager\PDFManager\obj\x86\Release\MainWindow.baml
+E:\PDFManager\PDFManager\obj\x86\Release\AddLabel.g.cs
+E:\PDFManager\PDFManager\obj\x86\Release\MainWindow.g.cs
+E:\PDFManager\PDFManager\obj\x86\Release\App.g.cs
+E:\PDFManager\PDFManager\obj\x86\Release\PDFManager_MarkupCompile.cache
+E:\PDFManager\PDFManager\obj\x86\Release\PDFManager.g.resources
+E:\PDFManager\PDFManager\obj\x86\Release\PDFManager.Properties.Resources.resources
+E:\PDFManager\PDFManager\obj\x86\Release\GenerateResource.read.1.tlog
+E:\PDFManager\PDFManager\obj\x86\Release\GenerateResource.write.1.tlog
+E:\PDFManager\PDFManager\obj\x86\Release\PDFManager.exe
+E:\PDFManager\PDFManager\obj\x86\Release\PDFManager.pdb
